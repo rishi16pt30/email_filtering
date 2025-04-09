@@ -1,0 +1,142 @@
+{
+    "rule_1": {
+        "name": "read_swiggy",
+        "description": "Mark emails from Swiggy as read",
+        "condition": {
+            "all": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "noreply@swiggy.in",
+                    "datatype": "string"
+                },
+                {
+                    "field": "subject",
+                    "predicate": "contains",
+                    "value": "Swiggy",
+                    "datatype": "string"
+                },
+                {
+                    "field": "time_received",
+                    "predicate": "less_than",
+                    "value": "30 days",
+                    "datatype": "date"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_read"
+        ]
+    },
+    "rule_2": {
+        "name": "read_mark_unimportant_swiggy",
+        "description": "Mark emails from Swiggy as read and unimportant",
+        "condition": {
+            "all": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "noreply@swiggy.in",
+                    "datatype": "string"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_read",
+            "mark_as_unimportant"
+        ]
+    },
+    "rule_3": {
+        "name": "mark_important_less_10_day_swiggy",
+        "description": "Mark emails from Swiggy as important that are received before 10 days",
+        "condition": {
+            "all": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "noreply@swiggy.in",
+                    "datatype": "string"
+                },
+                {
+                    "field": "time_received",
+                    "predicate": "less_than",
+                    "value": "10 days",
+                    "datatype": "date"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_important"
+        ]
+    },
+    "rule_4": {
+        "name": "read_mark_unimportant_swiggy",
+        "description": "Mark emails from Swiggy as read and unimportant",
+        "condition": {
+            "all": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "noreply@swiggy.in",
+                    "datatype": "string"
+                },
+                {
+                    "field": "time_received",
+                    "predicate": "less_than",
+                    "value": "10 days",
+                    "datatype": "date"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_important"
+        ]
+    },
+    "rule_5": {
+        "name": "read_mark_important_sender_receiver_uber",
+        "description": "Mark emails from / to uber as read and important",
+        "condition": {
+            "any": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "uber@uber.com",
+                    "datatype": "string"
+                },
+                {
+                    "field": "receiver",
+                    "predicate": "contains",
+                    "value": "uber@uber.com",
+                    "datatype": "string"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_important",
+            "mark_as_read"
+        ]
+    },
+    "rule_6": {
+        "name": "read_mark_unimportant_swiggy",
+        "description": "Mark emails from Swiggy as read and unimportant",
+        "condition": {
+            "all": [
+                {
+                    "field": "sender",
+                    "predicate": "contains",
+                    "value": "uber@uber.com",
+                    "datatype": "string"
+                },
+                {
+                    "field": "time_received",
+                    "predicate": "less_than",
+                    "value": "30 days",
+                    "datatype": "date"
+                }
+            ]
+        },
+        "action": [
+            "mark_as_read"
+        ]
+    }
+}

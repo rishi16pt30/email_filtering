@@ -1,0 +1,28 @@
+[
+    {
+        "from": "noreply@swiggy.in",
+        "subject": "",
+        "start_time": "01-01-2025 00:00:00",    
+        "end_time": "*"
+    },
+    {
+        "from": "shipment-tracking@amazon.in",
+        "subject": "",
+        "start_time": "01-01-2025 15:00:00",
+        "end_time": "15-03-2025 15:00:00",
+        "no_of_mails_to_fetch": 10
+    },
+    {
+        "from": "uber@uber.com",
+        "subject": "",
+        "start_time": "*",
+        "end_time": "*",
+        "no_of_mails_to_fetch": 10
+    },
+    {
+        "sent_to": "uber@uber.com",
+        "subject": "",
+        "start_time": "*",
+        "end_time": "*"
+    }
+]
