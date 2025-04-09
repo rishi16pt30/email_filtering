@@ -1,0 +1,135 @@
+[
+    {
+        "rule": "rule_1",
+        "rule_name": "read_swiggy",
+        "list_of_mail_ids": [
+            "19619a6f2e29dd67",
+            "1960bbe49852a016",
+            "1960b5afdf24bf62",
+            "19606e75f87c1537",
+            "1960224ae1895fc7",
+            "195f73ff8a7632aa",
+            "195f5ce0b6d905a2",
+            "195ecc11de147b8a",
+            "195e631f27ad6921",
+            "195d6a85220f1c2e",
+            "195d68dc1f2c6ba8",
+            "195954dc2fd1d0cd",
+            "1956fc69d792f4bb",
+            "194b7818c330bd3c",
+            "194a1a996a2311bc",
+            "1945ae028d9892a9",
+            "1942ff9d9627ae62"
+        ],
+        "action_to_perform": [
+            "mark_as_read"
+        ]
+    },
+    {
+        "rule": "rule_2",
+        "rule_name": "read_mark_unimportant_swiggy",
+        "list_of_mail_ids": [
+            "19619a6f2e29dd67",
+            "1960bbe49852a016",
+            "1960b5afdf24bf62",
+            "19606e75f87c1537",
+            "1960224ae1895fc7",
+            "195f73ff8a7632aa",
+            "195f5ce0b6d905a2",
+            "195ecc11de147b8a",
+            "195e631f27ad6921",
+            "195d6a85220f1c2e",
+            "195d68dc1f2c6ba8",
+            "195954dc2fd1d0cd",
+            "1956fc69d792f4bb",
+            "194b7818c330bd3c",
+            "194a1a996a2311bc",
+            "1945ae028d9892a9",
+            "1942ff9d9627ae62"
+        ],
+        "action_to_perform": [
+            "mark_as_read",
+            "mark_as_unimportant"
+        ]
+    },
+    {
+        "rule": "rule_3",
+        "rule_name": "mark_important_less_10_day_swiggy",
+        "list_of_mail_ids": [
+            "19619a6f2e29dd67",
+            "1960bbe49852a016",
+            "1960b5afdf24bf62",
+            "19606e75f87c1537",
+            "1960224ae1895fc7",
+            "195f73ff8a7632aa",
+            "195f5ce0b6d905a2",
+            "195ecc11de147b8a",
+            "195e631f27ad6921",
+            "195d6a85220f1c2e",
+            "195d68dc1f2c6ba8",
+            "195954dc2fd1d0cd",
+            "1956fc69d792f4bb",
+            "194b7818c330bd3c",
+            "194a1a996a2311bc",
+            "1945ae028d9892a9",
+            "1942ff9d9627ae62"
+        ],
+        "action_to_perform": [
+            "mark_as_important"
+        ]
+    },
+    {
+        "rule": "rule_4",
+        "rule_name": "read_mark_unimportant_swiggy",
+        "list_of_mail_ids": [
+            "19619a6f2e29dd67",
+            "1960bbe49852a016",
+            "1960b5afdf24bf62",
+            "19606e75f87c1537",
+            "1960224ae1895fc7",
+            "195f73ff8a7632aa",
+            "195f5ce0b6d905a2",
+            "195ecc11de147b8a",
+            "195e631f27ad6921",
+            "195d6a85220f1c2e",
+            "195d68dc1f2c6ba8",
+            "195954dc2fd1d0cd",
+            "1956fc69d792f4bb",
+            "194b7818c330bd3c",
+            "194a1a996a2311bc",
+            "1945ae028d9892a9",
+            "1942ff9d9627ae62"
+        ],
+        "action_to_perform": [
+            "mark_as_important"
+        ]
+    },
+    {
+        "rule": "rule_5",
+        "rule_name": "read_mark_important_sender_receiver_uber",
+        "list_of_mail_ids": [
+            "195eaece423916a3",
+            "195cc4e0c503e8fb",
+            "195b85371456d03a",
+            "195a84177bfbf0fb",
+            "195326c522d3eef7",
+            "194cb4665bc568ec",
+            "194bafb575cdff62",
+            "194b807ecd3bb324",
+            "194a6bee146893cf",
+            "19493fb6739f196a"
+        ],
+        "action_to_perform": [
+            "mark_as_important",
+            "mark_as_read"
+        ]
+    },
+    {
+        "rule": "rule_6",
+        "rule_name": "read_mark_unimportant_swiggy",
+        "list_of_mail_ids": [],
+        "action_to_perform": [
+            "mark_as_read"
+        ]
+    }
+]

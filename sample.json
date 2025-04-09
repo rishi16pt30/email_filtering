@@ -1,0 +1,426 @@
+[
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 39 minutes! Rate this timely delivery here Order No: 203154334309783 Restaurant Mani&#39;s Dum Biryani Your Order Summary: Order No: 203154334309783",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1744187093000,
+        "unique_mail_id": "19619a6f2e29dd67"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 37 minutes! Rate this timely delivery here Order No: 202921117809652 Restaurant Narmada Chain Of Restaurant Your Order Summary: Order No:",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743953741000,
+        "unique_mail_id": "1960bbe49852a016"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered superfast",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 30 minutes! Rate this lightning fast delivery here Order No: 202914995861471 Restaurant Khalids Biriyani Your Order Summary: Order No: 202914995861471",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743947233000,
+        "unique_mail_id": "1960b5afdf24bf62"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was successfully delivered",
+        "mail_content": "Greetings from Swiggy Your order was delivered successfully. Rate your delivery experience here Order No: 202832648477719 Restaurant A2B - Adyar Ananda Bhavan Your Order Summary: Order No:",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743872547000,
+        "unique_mail_id": "19606e75f87c1537"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered before time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 45 minutes! Rate this timely delivery here Order No: 202290643377259 Restaurant Nandhana Palace Your Order Summary: Order No: 202290643377259 Order",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743792680000,
+        "unique_mail_id": "1960224ae1895fc7"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered before time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 47 minutes! Rate this timely delivery here Order No: 202576676901198 Restaurant Geetham Veg restaurant Your Order Summary: Order No: 202576676901198",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743609918000,
+        "unique_mail_id": "195f73ff8a7632aa"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered before time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 45 minutes! Rate this timely delivery here Order No: 202290643377259 Restaurant Nandhana Palace Your Order Summary: Order No: 202290643377259 Order",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743585675000,
+        "unique_mail_id": "195f5ce0b6d905a2"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 32 minutes! Rate this timely delivery here Order No: 202401494006770 Restaurant Narmada Chain Of Restaurant Your Order Summary: Order No:",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743433832000,
+        "unique_mail_id": "195ecc11de147b8a"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered before time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 45 minutes! Rate this timely delivery here Order No: 202290643377259 Restaurant Nandhana Palace Your Order Summary: Order No: 202290643377259 Order",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743323787000,
+        "unique_mail_id": "195e631f27ad6921"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 29 minutes! Rate this timely delivery here Order No: 202030952084684 Restaurant Mani&#39;s Dum Biryani Your Order Summary: Order No: 202030952084684",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743063109000,
+        "unique_mail_id": "195d6a85220f1c2e"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Rishi S, you are now a Swiggy One member!",
+        "mail_content": "Hi Rishi S, Welcome to Swiggy One Your membership has been activated for 3 Months. Now, enjoy access to unlimited convenience and benefits all across Swiggy. Got a question or need help? Chat with us",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1743061368000,
+        "unique_mail_id": "195d68dc1f2c6ba8"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 26 minutes! Rate this timely delivery here Order No: 200934677260859 Restaurant Narmada Chain Of Restaurant Your Order Summary: Order No:",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1741966655000,
+        "unique_mail_id": "195954dc2fd1d0cd"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was successfully delivered",
+        "mail_content": "Greetings from Swiggy Your order was delivered successfully. Rate your delivery experience here Order No: 200305214092752 Restaurant Madurai Pandian Mess Your Order Summary: Order No: 200305214092752",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1741337041000,
+        "unique_mail_id": "1956fc69d792f4bb"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy Instamart order was successfully delivered",
+        "mail_content": "Greetings from Swiggy\ud83d\udc4b Your Swiggy Instamart order id: 197214283490271 was successfully delivered. Deliver To: 52/23 Oil Monger Street Royapettah Pudupakkam, Royapettah, Chennai, Tamil Nadu 600014,",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1738245507000,
+        "unique_mail_id": "194b7818c330bd3c"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered on time",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 13 minutes! Rate this timely delivery here Order No: 196847834356051 Restaurant Madurai Pandian Mess Your Order Summary: Order No: 196847834356051",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1737879033000,
+        "unique_mail_id": "194a1a996a2311bc"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy order was delivered superfast",
+        "mail_content": "Greetings from Swiggy Your order was delivered in 16 minutes! Rate this lightning fast delivery here Order No: 195659702836080 Restaurant Madurai Pandian Mess Your Order Summary: Order No:",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1736691426000,
+        "unique_mail_id": "1945ae028d9892a9"
+    },
+    {
+        "start_timestamp": 1735669800,
+        "end_timestamp": 1744217008,
+        "no_of_mails_to_fetch": 50,
+        "sender": "noreply@swiggy.in",
+        "receiver": null,
+        "subject": "Your Swiggy Instamart order was successfully delivered",
+        "mail_content": "Greetings from Swiggy\ud83d\udc4b Your Swiggy Instamart order id: 194940761997634 was successfully delivered. Deliver To: 52/23 Oil Monger Street Royapettah Pudupakkam, Royapettah, Chennai, Tamil Nadu 600014,",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1735971690000,
+        "unique_mail_id": "1942ff9d9627ae62"
+    },
+    {
+        "start_timestamp": 1735723800,
+        "end_timestamp": 1742031000,
+        "no_of_mails_to_fetch": 10,
+        "sender": "shipment-tracking@amazon.in",
+        "receiver": null,
+        "subject": "Your Amazon.in order #403-0877088-1513167",
+        "mail_content": "Amazon.in\r\n--------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\nHi s.rishi,\r\n\r\nYour package will be delivered between 7:00AM and 10:00PM by our Amazon Delivery Agent (Phone: +914461213444 PIN 6023).\r\n\r\n\r\nTrack your package:\r\nhttps://www.amazon.in/gp/css/shiptrack/view.html?ie=UTF8&orderID=403-0877088-1513167&orderingShipmentId=90015431166302&packageId=1&ref_=302_E_DDE\r\n\r\n\r\n\r\n--------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\nThis email was sent from an email address that can't receive emails. Please don't reply to this email.Hi s.rishi, Your package will be delivered between 7:00AM and 10:00PM by our Amazon Delivery Agent (Phone: +914461213444 PIN 6023). Track your package This email was sent from an email address that can",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1739935546000,
+        "unique_mail_id": "1951c3d7f9d73406"
+    },
+    {
+        "start_timestamp": 1735723800,
+        "end_timestamp": 1742031000,
+        "no_of_mails_to_fetch": 10,
+        "sender": "shipment-tracking@amazon.in",
+        "receiver": null,
+        "subject": "Shipped: \u201cJVCV\u00ae Car Key Cover...\u201d",
+        "mail_content": "\r\n  \r\n\r\n    Your package was shipped!\r\nOrdered\r\n\r\nShipped\r\n\r\nOut for delivery\r\n\r\nDelivered\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nArriving Wednesday\r\n\r\nRishi \u2013 CHENNAI, TAMIL NADU\r\n\r\nOrder #\r\n403-0877088-1513167\r\n\r\nTrack package\r\nhttps://www.amazon.in/gp/your-account/ship-track?ie=UTF8&itemId=&orderId=403-0877088-1513167&packageIndex=0&shipmentId=UcVqh0b8S&ref_=fed_track_package\r\n\r\n* JVCV\u00ae Car Key Cover Compatible with Renault Kiger Triber Smart Key - Rally Stripe (White Black)\r\n  Quantity: 1\r\n  349 INR\r\n\r\n\r\nTotal\r\n349 INR\r\n\r\n\r\n\r\n\r\n\u00a92025 Amazon.com, Inc. or its affiliates. All rights reserved.\r\n\r\nAmazon.inShipped: \u201cJVCV\u00ae Car Key Cover...\u201d\u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c \u034f \u200c",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "time_received": 1739693989000,
+        "unique_mail_id": "1950dd7a0497132d"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "195eaece423916a3"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "195cc4e0c503e8fb"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "195b85371456d03a"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "195a84177bfbf0fb"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "195326c522d3eef7"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "194cb4665bc568ec"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "194bafb575cdff62"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "194b807ecd3bb324"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "194a6bee146893cf"
+    },
+    {
+        "start_timestamp": 1704047400,
+        "end_timestamp": 1744217075,
+        "no_of_mails_to_fetch": 10,
+        "sender": "uber@uber.com",
+        "receiver": null,
+        "subject": null,
+        "mail_content": null,
+        "labels": null,
+        "time_received": null,
+        "unique_mail_id": "19493fb6739f196a"
+    }
+]
